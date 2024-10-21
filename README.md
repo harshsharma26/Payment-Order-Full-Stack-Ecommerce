@@ -1,4 +1,3 @@
 # Payment-Order-Full-Stack-Ecommerce
 
- ![Project Image]('./MEAN/Full Stack E-Commerce MERN App.png')
-  <!-- Adjust this path as necessary -->
+![Project Image](Full%20Stack%20E-Commerce%20MERN%20App.png)
